@@ -60,13 +60,13 @@ mouse.eats();
 mouse.sleeps();
 
 //  2)
-//  Noun:fan
-//  action 1: the fan cools the room
-fan.coolsRoom();
-//  action 2: the fan consumes electricity
-fan.consumesRlectricity();
-//  action 3: the fan oscillates
-fan.oscillates();
+//  Noun:junk food
+//  action 1: the junk food gave a Joe diarrhea
+junkFood.gaveJoeDiarrhea();
+//  action 2: the junk food produces an odour
+junkFood.producesOdour();
+//  action 3: the junk food was expired two years ago
+junkFood.expiredTwoYearsAgo();
 
 //  3)
 //  Noun: phone
