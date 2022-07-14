@@ -63,7 +63,7 @@ mouse.sleeps();
 //  Noun:fan
 //  action 1: the fan cools the room
 fan.coolsRoom();
-//  action 2: the fan consumes electricity
+// Eaction 2: the fan consumes electricity
 fan.consumesRlectricity();
 //  action 3: the fan oscillates
 fan.oscillates();
@@ -128,16 +128,9 @@ leg.extends();
 teacher.marksExam();
 //  action 2: the teach scolds the student
 teacher.scoldsStudent();
-//  action 3: the teach writes on the board
-teacher.writesOnBoard();
-
-//  10) 
-//  Noun: microphone
-//  action 1: the microphone converts energy
-microphone.convertsEnergy();
-//  action 2: the microphone uses phantom power
-microphone.usePhantomPower();
-//  action 3: the microphone helps amplify the voice
+//  action 3: the teach writejunk foodoard
+teacher.writejunk food;gave diarrhea junkFood.gaveDiarrheation 1: the microphone converts eproduces an odourcjunkFood.producesAnOdour();2: the microphothe junk food expires tomorrowhjunkFood.expiresTomorrow();
+: the microphone helps amplify the voice
 microphone.amplifyVoice();
 
 
