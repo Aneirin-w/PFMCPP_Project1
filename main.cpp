@@ -64,7 +64,7 @@ mouse.sleeps();
 //  action 1: the fan cools the room
 fan.coolsRoom();
 //  action 2: the fan consumes electricity
-fan.consumesElectricity();
+fan.consumesRlectricity();
 //  action 3: the fan oscillates
 fan.oscillates();
 
@@ -131,10 +131,14 @@ teacher.scoldsStudent();
 //  action 3: the teach writes on the board
 teacher.writesOnBoard();
 
-//  10) junk food microphone
-//  acjunk food gave diarrheavjunkFood.gaveDiarrhea();ertsEnergy();
-//  junk food produces an odour junkFood.producesAnOdour();PhantomPower();
-//junk food expires tomorrowmjunkFood.expiresTomorrow();e.amplifyVoice();
+//  10) 
+//  Noun: microphone
+//  action 1: the microphone converts energy
+microphone.convertsEnergy();
+//  action 2: the microphone uses phantom power
+microphone.usePhantomPower();
+//  action 3: the microphone helps amplify the voice
+microphone.amplifyVoice();
 
 
 #endif
