@@ -50,87 +50,95 @@ arm.flex();                             // 3)
 //  action 3:   the arm rotates conter-clockwise
 arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
-
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: mouse
+//  action 1: the mouse crawls
+mouse.craws();
+//  action 2: the mouse eats
+mouse.eats();
+//  action 3: the mouse sleeps
+mouse.sleeps();
 
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:fan
+//  action 1: the fan cools the room
+fan.coolsRoom();
+//  action 2: the fan consumes electricity
+fan.consumesRlectricity();
+//  action 3: the fan oscillates
+fan.oscillates();
 
 //  3)
-//  Noun:
-//  action 1:
+//  Noun: phone
+//  action 1: the phone rings
+phone.rings();
+//  action 2: the phone vibrates
+phone.vibrates();
+//  action 3: the phone is charging
+phone.charging();
 
-//  action 2:
-
-//  action 3:
-
-//  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  4) 
+//  Noun: washing machine
+//  action 1: the washing machine makes beeping noise
+washingmachine.makesBeepingNoise();
+//  action 2: the washing machine wash clothes
+washingmachine.washClothes();
+//  action 3: the washing machine uses water
+washingmachine.usesWater();
 
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:speaker
+//  action 1: the speaker emits sound waves
+speaker.emitsSoundSaves();
+//  action 2: the speaker increases SPL of room
+speaker.increaseRoomSPL();
+//  action 3: the speaker vibrates
+speaker.vibrates();
 
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: doctor
+//  action 1: the doctor cure patients
+doctor.curePatients();
+//  action 2: the doctor drinks coffee
+doctor.drinksCoffee();
+//  action 3: the doctor sits
+doctor.sits();
 
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: bicycle
+//  action 1: the bicycle fell
+bicycle.fell();
+//  action 2: the bicycle rings the bell
+bicycle.ringsBell();
+//  action 3: the bicycle skid
+bicycle.skid();
 
 //  8)
-//  Noun:
-//  action 1:
+//  Noun: leg
+//  action 1: the leg broke
+leg.broke();
+//  action 2: the leg cramp
+leg.cramp();
+//  action 3: the leg extends
+leg.extends();
 
-//  action 2:
+//  9) 
+//  Noun: teacher
+//  action 1: the teacher marks the exam 
+teacher.marksExam();
+//  action 2: the teach scolds the student
+teacher.scoldsStudent();
+//  action 3: the teach writes on the board
+teacher.writesOnBoard();
 
-//  action 3:
-
-//  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
-//  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  10) 
+//  Noun: microphone
+//  action 1: the microphone converts energy
+microphone.convertsEnergy();
+//  action 2: the microphone uses phantom power
+microphone.usePhantomPower();
+//  action 3: the microphone helps amplify the voice
+microphone.amplifyVoice();
 
 
 #endif
