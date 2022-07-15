@@ -61,7 +61,7 @@ mouse.sleeps();
 
 //  2)
 //  Noun:fan
-//  action 1: the fan cools the room
+//  ation 1: the fan cools the room
 fan.coolsRoom();
 // Eaction 2: the fan consumes electricity
 fan.consumesRlectricity();
@@ -126,10 +126,18 @@ leg.extends();
 //  Noun: teacher
 //  action 1: the teacher marks the exam 
 teacher.marksExam();
-//  action 2: the teach scolds the student
-teacher.scoldsStudent();
-//  action 3: the teach writejunk foodoard
-teacher.writejunk food;gave diarrhea junkFood.gaveDiarrheation 1: the microphone converts eproduces an odourcjunkFood.producesAnOdour();2: the microphothe junk food expires tomorrowhjunkFood.expiresTomorrow();
+//  action 2: the teach scolds the studs on the bher.
+teacher.writesOnBoard();s
+//  10) 
+//  Noun: Junk Food
+//  action 1: the junk food gave diarrhea
+junkFood.gaveDiarrhea();
+//  action 2: the junk food produces an odour
+junkFood.producesAnOdour();
+//  action 3: the junk food expires tomorrow
+junkFood.expiresTomorrow();
+
+orrow();
 : the microphone helps amplify the voice
 microphone.amplifyVoice();
 
