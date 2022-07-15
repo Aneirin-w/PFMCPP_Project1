@@ -53,7 +53,7 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 //  1)
 //  Noun: mouse
 //  action 1: the mouse crawls
-mouse.craws();
+mouse.crawls();
 //  action 2: the mouse eats
 mouse.eats();
 //  action 3: the moucse sleeps
@@ -64,7 +64,7 @@ mouse.sleeps();
 //  ation 1: the fan cools the room
 fan.coolsRoom();
 // Eaction 2: the fan consumes electricity
-fan.consumesRlectricity();
+fan.consumesElectricity();
 //  action 3: the fan oscillates
 fan.oscillates();
 
@@ -89,7 +89,7 @@ washingmachine.usesWater();
 //  5)
 //  Noun:speaker
 //  action 1: the speaker emits sound waves
-speaker.emitsSoundSaves();
+speaker.emitsSoundWaves();
 //  action 2: the speaker increases SPL of room
 speaker.increaseRoomSPL();
 //  action 3: the speaker vibrates
@@ -124,13 +124,13 @@ leg.extends();
 
 //  9) 
 //  Noun: teacher
-//  action 1: the teacher markers the exam 
-tudent.
-teacher.scoldsTheStudent();
-//  action 3: the teacher writes on the board();
-//  action 2The: the te
-ch scolds the studs on the bher.
-teacher.writesOnBoard();s
+//  action 1: the teacher markers the exam paper
+teacher.marksExamPaper();
+//  action 2: the teacher scold the student
+teacher.scoldTheStudent();
+//  action 3: the teacher wrote on the board();
+teacher.wroteOnTheBoard();
+
 //  10) 
 //  Noun: Junk Food
 //  action 1: the junk food gave diarrhea
@@ -138,12 +138,7 @@ junkFood.gaveDiarrhea();
 //  action 2: the junk food produces an odour
 junkFood.producesAnOdour();
 //  action 3: thood expires tomorrow
-junkFood.expiresTomorrow();
-
-orrow();
-: the microphone helps amplify the voice
-microphone.amplifyVoice();
-
+junkFood.expiresTomorrow();;
 
 #endif
 
