@@ -56,7 +56,7 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 mouse.craws();
 //  action 2: the mouse eats
 mouse.eats();
-//  action 3: the mouse sleeps
+//  action 3: the moucse sleeps
 mouse.sleeps();
 
 //  2)
@@ -124,9 +124,12 @@ leg.extends();
 
 //  9) 
 //  Noun: teacher
-//  action 1: the teacher marks the exam 
-teacher.marksExam();
-//  action 2: the teach scolds the studs on the bher.
+//  action 1: the teacher markers the exam 
+tudent.
+teacher.scoldsTheStudent();
+//  action 3: the teacher writes on the board();
+//  action 2The: the te
+ch scolds the studs on the bher.
 teacher.writesOnBoard();s
 //  10) 
 //  Noun: Junk Food
@@ -134,7 +137,7 @@ teacher.writesOnBoard();s
 junkFood.gaveDiarrhea();
 //  action 2: the junk food produces an odour
 junkFood.producesAnOdour();
-//  action 3: the junk food expires tomorrow
+//  action 3: thood expires tomorrow
 junkFood.expiresTomorrow();
 
 orrow();
